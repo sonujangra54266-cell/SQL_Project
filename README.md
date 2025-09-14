@@ -1,2 +1,1 @@
-# SQL_Project
-end to end project.
+🚀 Aspiring developer passionate about databases & backend systems. Skilled in SQL with projects like an Online Book Store covering schema design, queries & analytics. Constantly learning & building real-world solutions with clean, efficient code.
